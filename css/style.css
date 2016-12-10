@@ -1,0 +1,44 @@
+body {
+	background: url(../images/back.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.bg-1 {
+	background-color: #16a085;
+	color: #ffffff;
+}
+
+.bg-2 {
+	background-color: #8e44ad;
+	color: #ffffff;
+}
+
+.bg-3 {
+	background-color: #ffffff;
+	color: #34495e;
+}
+
+.container-fluid {
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.navbar {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border: 0;
+	border-radius: 0;
+	margin-bottom: 0;
+	font-size: 2em;
+	letter-spacing: 5px;
+}
+
+.navbar-nav li a:hover {
+	color: #34495e !important;
+}
+
+
+.progress-bar {
+	font-size: 2em;
+}
